@@ -3,7 +3,7 @@ package calculator
 var logMessage = "[LOG]"
 
 // Version of the calculator
-var Version = "1.0"
+var Version = "v0.0.0"
 
 func internalSum(number int) int {
     return number - 1
